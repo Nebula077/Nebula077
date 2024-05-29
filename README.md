@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack web development 
 - 🌱 I’m currently learning javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on projects and hackathons
-- 📫 How to reach me @nabule_allan in twitter
+- 📫 How to reach me @nabule_allan on twitter
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love gaming and coding also
 
