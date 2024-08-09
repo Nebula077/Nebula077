@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me @nabule_allan on twitter
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love gaming and coding also
 
 <!---
