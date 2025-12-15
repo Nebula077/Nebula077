@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-👋 Hello! I’m a self-driven software engineer currently learning through the **ALX ProDev Backend Web Development Program**.
+👋 Hello! I’m a self-driven software engineer currently learning through the **ALX frontend Web Development Program**.
 
 🔍 I focus on:
 
 - 🔧 Full-stack web development (Django + React)
 - 🛠️ Efficient database design
 - 🎯 Building clean and catchy websites with modern tools
+- 📲 Interactive web pages
+- Professional designs
 
 🎯 **Why Software Engineering?**
 
