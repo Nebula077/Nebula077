@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <em>A backend developer in training with ALX ProDev, passionate about building beautiful and functional full-stack applications.</em>
+  <em>A backend developer in training with ALX ProDev and ALX Frontend web development program, passionate about building beautiful and functional full-stack applications.</em>
 </p>
 
 ---
